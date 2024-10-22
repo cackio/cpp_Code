@@ -1,0 +1,99 @@
+2024-10-21 10:52:41.973730 [info] : ========== Server init ==========
+2024-10-21 10:52:41.973744 [info] : Port:80, OpenLinger: false
+2024-10-21 10:52:41.973750 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-10-21 10:52:41.973754 [info] : LogSys level: 1
+2024-10-21 10:52:41.973759 [info] : srcDir: /root/tiny_server/resources/
+2024-10-21 10:52:41.973764 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-10-21 10:52:41.973768 [info] : ========== Server start ==========
+2024-10-21 10:52:49.877930 [info] : Client[18](113.54.225.22:50411) in, userCount:1
+2024-10-21 10:52:49.878002 [info] : Client[18] in!
+2024-10-21 10:52:49.878070 [info] : Client[21](113.54.225.22:50667) in, userCount:2
+2024-10-21 10:52:49.878091 [info] : Client[21] in!
+2024-10-21 10:52:51.596127 [info] : file path /root/tiny_server/resources//index.html
+2024-10-21 10:52:51.668896 [info] : file path /root/tiny_server/resources//css/animate.css
+2024-10-21 10:52:51.669162 [info] : file path /root/tiny_server/resources//css/bootstrap.min.css
+2024-10-21 10:52:51.706321 [info] : Client[22](113.54.225.22:51691) in, userCount:3
+2024-10-21 10:52:51.706362 [info] : Client[22] in!
+2024-10-21 10:52:51.706629 [info] : Client[23](113.54.225.22:51947) in, userCount:4
+2024-10-21 10:52:51.706663 [info] : Client[23] in!
+2024-10-21 10:52:51.709449 [info] : file path /root/tiny_server/resources//css/font-awesome.min.css
+2024-10-21 10:52:51.709577 [info] : file path /root/tiny_server/resources//css/magnific-popup.css
+2024-10-21 10:52:51.712758 [info] : Client[24](113.54.225.22:52203) in, userCount:5
+2024-10-21 10:52:51.712795 [info] : Client[24] in!
+2024-10-21 10:52:51.714913 [info] : file path /root/tiny_server/resources//css/style.css
+2024-10-21 10:52:51.715676 [info] : Client[26](113.54.225.22:51435) in, userCount:6
+2024-10-21 10:52:51.715728 [info] : Client[26] in!
+2024-10-21 10:52:51.717644 [info] : file path /root/tiny_server/resources//js/jquery.js
+2024-10-21 10:52:51.787924 [info] : file path /root/tiny_server/resources//images/profile-image.png
+2024-10-21 10:52:51.788913 [info] : file path /root/tiny_server/resources//js/bootstrap.min.js
+2024-10-21 10:52:51.837056 [info] : file path /root/tiny_server/resources//js/smoothscroll.js
+2024-10-21 10:52:51.837455 [info] : file path /root/tiny_server/resources//js/jquery.magnific-popup.min.js
+2024-10-21 10:52:51.872681 [info] : file path /root/tiny_server/resources//js/magnific-popup-options.js
+2024-10-21 10:52:51.880140 [info] : file path /root/tiny_server/resources//js/wow.min.js
+2024-10-21 10:52:51.887380 [info] : file path /root/tiny_server/resources//js/custom.js
+2024-10-21 10:52:52.168636 [info] : file path /root/tiny_server/resources//images/favicon.ico
+2024-10-21 10:52:55.378771 [info] : file path /root/tiny_server/resources//picture.html
+2024-10-21 10:52:55.449668 [info] : file path /root/tiny_server/resources//css/bootstrap.min.css
+2024-10-21 10:52:55.453441 [info] : file path /root/tiny_server/resources//css/font-awesome.min.css
+2024-10-21 10:52:55.454832 [info] : file path /root/tiny_server/resources//css/style.css
+2024-10-21 10:52:55.456745 [info] : file path /root/tiny_server/resources//css/animate.css
+2024-10-21 10:52:55.456999 [info] : file path /root/tiny_server/resources//css/magnific-popup.css
+2024-10-21 10:52:55.458597 [info] : file path /root/tiny_server/resources//images/profile-image.png
+2024-10-21 10:52:55.500682 [info] : file path /root/tiny_server/resources//images/image2.png
+2024-10-21 10:52:55.500736 [info] : file path /root/tiny_server/resources//images/image1.png
+2024-10-21 10:52:55.507359 [info] : file path /root/tiny_server/resources//images/image3.png
+2024-10-21 10:52:55.512780 [info] : file path /root/tiny_server/resources//images/image4.png
+2024-10-21 10:52:55.547600 [info] : file path /root/tiny_server/resources//js/jquery.js
+2024-10-21 10:52:55.556716 [info] : file path /root/tiny_server/resources//js/bootstrap.min.js
+2024-10-21 10:52:55.557427 [info] : file path /root/tiny_server/resources//js/smoothscroll.js
+2024-10-21 10:52:55.600911 [info] : file path /root/tiny_server/resources//js/jquery.magnific-popup.min.js
+2024-10-21 10:52:55.629766 [info] : file path /root/tiny_server/resources//js/custom.js
+2024-10-21 10:52:55.632595 [info] : file path /root/tiny_server/resources//js/magnific-popup-options.js
+2024-10-21 10:52:55.632628 [info] : file path /root/tiny_server/resources//images/image5.png
+2024-10-21 10:56:42.038454 [info] : ========== Server init ==========
+2024-10-21 10:56:42.038469 [info] : Port:80, OpenLinger: false
+2024-10-21 10:56:42.038511 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-10-21 10:56:42.038519 [info] : LogSys level: 1
+2024-10-21 10:56:42.038524 [info] : srcDir: /root/tiny_server/resources/
+2024-10-21 10:56:42.038529 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-10-21 10:56:42.038535 [info] : ========== Server start ==========
+2024-10-21 10:56:46.714200 [info] : Client[18](113.54.225.22:7404) in, userCount:1
+2024-10-21 10:56:46.714957 [info] : Client[18] in!
+2024-10-21 10:56:46.718513 [info] : Client[21](113.54.225.22:7660) in, userCount:2
+2024-10-21 10:56:46.718554 [info] : Client[21] in!
+2024-10-21 10:56:46.720041 [info] : file path /root/tiny_server/resources//index.html
+2024-10-21 10:56:46.824534 [info] : file path /root/tiny_server/resources//css/bootstrap.min.css
+2024-10-21 10:56:46.829100 [info] : file path /root/tiny_server/resources//css/animate.css
+2024-10-21 10:56:46.865713 [info] : Client[22](113.54.225.22:13036) in, userCount:3
+2024-10-21 10:56:46.865751 [info] : Client[22] in!
+2024-10-21 10:56:46.868670 [info] : file path /root/tiny_server/resources//css/magnific-popup.css
+2024-10-21 10:56:46.873193 [info] : Client[23](113.54.225.22:13548) in, userCount:4
+2024-10-21 10:56:46.873247 [info] : Client[23] in!
+2024-10-21 10:56:46.873508 [info] : Client[24](113.54.225.22:13292) in, userCount:5
+2024-10-21 10:56:46.873552 [info] : Client[24] in!
+2024-10-21 10:56:46.873596 [info] : Client[25](113.54.225.22:13804) in, userCount:6
+2024-10-21 10:56:46.873620 [info] : Client[25] in!
+2024-10-21 10:56:46.876057 [info] : file path /root/tiny_server/resources//css/style.css
+2024-10-21 10:56:46.876424 [info] : file path /root/tiny_server/resources//css/font-awesome.min.css
+2024-10-21 10:56:46.878127 [info] : file path /root/tiny_server/resources//images/profile-image.png
+2024-10-21 10:56:46.915969 [info] : file path /root/tiny_server/resources//js/jquery.js
+2024-10-21 10:56:46.940213 [info] : file path /root/tiny_server/resources//js/bootstrap.min.js
+2024-10-21 10:56:46.979531 [info] : file path /root/tiny_server/resources//js/smoothscroll.js
+2024-10-21 10:56:46.987684 [info] : file path /root/tiny_server/resources//js/jquery.magnific-popup.min.js
+2024-10-21 10:56:47.005778 [info] : file path /root/tiny_server/resources//js/magnific-popup-options.js
+2024-10-21 10:56:47.027398 [info] : file path /root/tiny_server/resources//js/wow.min.js
+2024-10-21 10:56:47.030913 [info] : file path /root/tiny_server/resources//js/custom.js
+2024-10-21 10:56:48.935516 [info] : file path /root/tiny_server/resources//video.html
+2024-10-21 10:56:49.011808 [info] : file path /root/tiny_server/resources//css/bootstrap.min.css
+2024-10-21 10:56:49.016911 [info] : file path /root/tiny_server/resources//css/animate.css
+2024-10-21 10:56:49.021706 [info] : file path /root/tiny_server/resources//css/style.css
+2024-10-21 10:56:49.021760 [info] : file path /root/tiny_server/resources//css/font-awesome.min.css
+2024-10-21 10:56:49.021793 [info] : file path /root/tiny_server/resources//images/profile-image.png
+2024-10-21 10:56:49.021911 [info] : file path /root/tiny_server/resources//css/magnific-popup.css
+2024-10-21 10:56:49.073234 [info] : file path /root/tiny_server/resources//js/jquery.js
+2024-10-21 10:56:49.077093 [info] : file path /root/tiny_server/resources//js/bootstrap.min.js
+2024-10-21 10:56:49.078018 [info] : file path /root/tiny_server/resources//js/smoothscroll.js
+2024-10-21 10:56:49.078873 [info] : file path /root/tiny_server/resources//js/jquery.magnific-popup.min.js
+2024-10-21 10:56:49.114393 [info] : file path /root/tiny_server/resources//js/magnific-popup-options.js
+2024-10-21 10:56:49.127881 [info] : file path /root/tiny_server/resources//js/custom.js
+2024-10-21 10:56:49.128039 [info] : file path /root/tiny_server/resources//js/wow.min.js

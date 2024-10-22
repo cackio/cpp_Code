@@ -1,0 +1,3 @@
+/home/alice/cproject/demo-main/MakeFile/CMakeFiles/hello.dir
+/home/alice/cproject/demo-main/MakeFile/CMakeFiles/edit_cache.dir
+/home/alice/cproject/demo-main/MakeFile/CMakeFiles/rebuild_cache.dir

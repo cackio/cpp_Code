@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/root/tiny_server/build",
+  "command": "/usr/bin/g++  -I/root/tiny_server/./include -I/usr/include/mysql  -Wall -Wextra -g -std=gnu++11 -o CMakeFiles/My_Project.dir/source/buffer.cpp.o -c /root/tiny_server/source/buffer.cpp",
+  "file": "/root/tiny_server/source/buffer.cpp"
+},
+{
+  "directory": "/root/tiny_server/build",
+  "command": "/usr/bin/g++  -I/root/tiny_server/./include -I/usr/include/mysql  -Wall -Wextra -g -std=gnu++11 -o CMakeFiles/My_Project.dir/source/conn_pool.cpp.o -c /root/tiny_server/source/conn_pool.cpp",
+  "file": "/root/tiny_server/source/conn_pool.cpp"
+},
+{
+  "directory": "/root/tiny_server/build",
+  "command": "/usr/bin/g++  -I/root/tiny_server/./include -I/usr/include/mysql  -Wall -Wextra -g -std=gnu++11 -o CMakeFiles/My_Project.dir/source/epoll_.cpp.o -c /root/tiny_server/source/epoll_.cpp",
+  "file": "/root/tiny_server/source/epoll_.cpp"
+},
+{
+  "directory": "/root/tiny_server/build",
+  "command": "/usr/bin/g++  -I/root/tiny_server/./include -I/usr/include/mysql  -Wall -Wextra -g -std=gnu++11 -o CMakeFiles/My_Project.dir/source/http_conn.cpp.o -c /root/tiny_server/source/http_conn.cpp",
+  "file": "/root/tiny_server/source/http_conn.cpp"
+},
+{
+  "directory": "/root/tiny_server/build",
+  "command": "/usr/bin/g++  -I/root/tiny_server/./include -I/usr/include/mysql  -Wall -Wextra -g -std=gnu++11 -o CMakeFiles/My_Project.dir/source/http_req.cpp.o -c /root/tiny_server/source/http_req.cpp",
+  "file": "/root/tiny_server/source/http_req.cpp"
+},
+{
+  "directory": "/root/tiny_server/build",
+  "command": "/usr/bin/g++  -I/root/tiny_server/./include -I/usr/include/mysql  -Wall -Wextra -g -std=gnu++11 -o CMakeFiles/My_Project.dir/source/http_response.cpp.o -c /root/tiny_server/source/http_response.cpp",
+  "file": "/root/tiny_server/source/http_response.cpp"
+},
+{
+  "directory": "/root/tiny_server/build",
+  "command": "/usr/bin/g++  -I/root/tiny_server/./include -I/usr/include/mysql  -Wall -Wextra -g -std=gnu++11 -o CMakeFiles/My_Project.dir/source/log.cpp.o -c /root/tiny_server/source/log.cpp",
+  "file": "/root/tiny_server/source/log.cpp"
+},
+{
+  "directory": "/root/tiny_server/build",
+  "command": "/usr/bin/g++  -I/root/tiny_server/./include -I/usr/include/mysql  -Wall -Wextra -g -std=gnu++11 -o CMakeFiles/My_Project.dir/source/time_heap.cpp.o -c /root/tiny_server/source/time_heap.cpp",
+  "file": "/root/tiny_server/source/time_heap.cpp"
+},
+{
+  "directory": "/root/tiny_server/build",
+  "command": "/usr/bin/g++  -I/root/tiny_server/./include -I/usr/include/mysql  -Wall -Wextra -g -std=gnu++11 -o CMakeFiles/My_Project.dir/source/webserver.cpp.o -c /root/tiny_server/source/webserver.cpp",
+  "file": "/root/tiny_server/source/webserver.cpp"
+},
+{
+  "directory": "/root/tiny_server/build",
+  "command": "/usr/bin/g++  -I/root/tiny_server/./include -I/usr/include/mysql  -Wall -Wextra -g -std=gnu++11 -o CMakeFiles/My_Project.dir/main/main.cpp.o -c /root/tiny_server/main/main.cpp",
+  "file": "/root/tiny_server/main/main.cpp"
+}
+]
